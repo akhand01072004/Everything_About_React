@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.d-h{
+  height: 60px;
+  border: none;
+  border-radius: 20px;
+}
+.bt{
+  height: 40px;
+  width: 80px;
+}
